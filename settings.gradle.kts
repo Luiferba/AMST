@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MyAppAM"
+rootProject.name = "Desafio"
 include(":app")
